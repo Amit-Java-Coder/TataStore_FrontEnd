@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.list-group-item.active {
+  background: #e2e2e2 !important;
+  color: black !important;
+  border: none !important;
+}
+
+.pagination.page-item.active {
+  background-color: black !important;
+  color: white !important;
+}
+
+body {
+  background-color: #f9f7f2 !important;
+}
+
+
+
